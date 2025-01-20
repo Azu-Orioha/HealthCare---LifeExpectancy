@@ -25,3 +25,10 @@ BMI (Body Mass Index) data
 Thinness prevalence among children and adolescents
 
 
+# ACTIONS
+1) Analyse the Data.
+2) slmlmsc
+3) ,lcsmlmslm
+
+
+
