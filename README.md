@@ -27,8 +27,11 @@ Thinness prevalence among children and adolescents
 
 # ACTIONS
 1) Analyse the Data.
-2) slmlmsc
-3) ,lcsmlmslm
+   Undertsanding the dataset and checking for null values
+   Checking that the column types are the correct type.
+   
+3) slmlmsc
+4) ,lcsmlmslm
 
 
 
